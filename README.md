@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![Bhavnick's Github Profile Banner](github_banner.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
