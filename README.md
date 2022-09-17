@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/bhavnicksm/bhavnicksm/blob/main/github_banner.png" align="center" style="width: 100%" />
+<img src="assets/github_banner.png" align="center" style="width: 100%" />
 </div>  
   
 
@@ -29,7 +29,10 @@
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
 <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a> 
-<a href="https://onnx.ai/" target="_blank"><img style="margin: 10px" src="https://artwork.lfaidata.foundation/projects/onnx/icon/color/onnx-icon-color.png" alt="GitLab" height="50"/></a>
+<a href="https://onnx.ai/" target="_blank"><img style="margin: 10px" src="assets/onnx_logo.png" alt="ONNX" height="50"/></a>
+<a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="assets/huggingface_logo.png" alt="HuggingFace" height="50"/></a>
+<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="assets/sklearn_logo.png" alt="Scikit-Learn" height="50"/></a>
+<a href="https://weaviate.io/" target="_blank"><img style="margin: 10px" src="assets/weaviate_logo.png" alt="Weaviate" height="50"/></a>
 </div>
 </td></tr>
 </table>
