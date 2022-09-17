@@ -18,7 +18,8 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set 
+
 <table><tr><<td valign="top" width="100%">
 
 ### ML Stack  
@@ -30,7 +31,10 @@
 <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
 </div>
 </td></tr>
+</table>
 
+
+<table>
 
 <tr><td valign="top" width="50%">
 
