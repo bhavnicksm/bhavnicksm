@@ -33,6 +33,7 @@
 <a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="assets/huggingface_logo.png" alt="HuggingFace" height="50"/></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="assets/sklearn_logo.png" alt="Scikit-Learn" height="50"/></a>
 <a href="https://weaviate.io/" target="_blank"><img style="margin: 10px" src="assets/weaviate_logo.png" alt="Weaviate" height="50"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="assets/fastapi.svg" alt="FastAPI" height="50"/></a>
 </div>
 </td></tr>
 </table>
