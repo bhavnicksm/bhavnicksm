@@ -20,7 +20,7 @@
 
 ## My Skill Set 
 
-<table><tr><<td valign="top" width="100%">
+<table><tr><td valign="top" width="100%">
 
 ### ML Stack  
 <div align="center">  
