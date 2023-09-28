@@ -6,14 +6,7 @@
 ### **<div align="center">I'm Bhavnick, a full-time NLProc Engineer 👨‍💻 working towards AGI since 2019 🤖</div>**  
   
 
-- 🌱 I’m currently learning End-to-End MLOps  
-  
 
-- ❓ Ask me about anything related to Transformers and other models...  
-  
-
-- ⚡ Fun fact: I am secretly a robot 🤖  
-  
 
 <br/>  
 
