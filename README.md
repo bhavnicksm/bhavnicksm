@@ -3,7 +3,7 @@
 </div>  
   
 
-### **<div align="center">I'm Bhavnick, a full-time NLProc Engineer 👨‍💻 working towards AGI since 2019 🤖</div>**  
+### **<div align="center">I'm Bhavnick, a Machine Learning Engineer 👨‍💻 working towards AGI since 2019 🤖</div>**  
   
 
 
